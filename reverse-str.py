@@ -1,2 +1,2 @@
 
-print (input('Enter a string: '))
+print (input('Enter a string: ')[::-1])
